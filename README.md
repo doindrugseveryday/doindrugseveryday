@@ -17,8 +17,8 @@ aliases: tnb wockstar, og xanexico, woozy
   <img align="center" alt="cord server" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <p align="center">
-<a href="https://www.wock.ml">
-  <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://cdn.discordapp.com/attachments/946621309574590524/959287929438613514/geng.gif" />
+<a href="https://wock.ml">
+  <img align="center" alt="wocks website" width="22px" src="https://cdn.discordapp.com/attachments/946621309574590524/959287929438613514/geng.gif" />
 </a>
 <p align="center">
     github stats below
